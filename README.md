@@ -104,17 +104,14 @@ You now have a basic idea of what constitutes a CLI. Fork and clone this lesson 
 ├── debug.py
 └── helpers.py
 
-### Generating Your Environment
+### Project Tracking Tool:
+   https://trello.com/b/ewdW0H6B/car-rental-system-with-cli
 
+### Generating Your Environment
 - Install any additional dependencies you know you'll need for your project by adding them to the Pipfile.
 - Then run the commands:
     <!-- ```bash
 pipenv install
 pipenv shell -->
-
-### Project Tracking Tool:
-        https://trello.com/b/ewdW0H6B/car-rental-system-with-cli
-
-
 
 
