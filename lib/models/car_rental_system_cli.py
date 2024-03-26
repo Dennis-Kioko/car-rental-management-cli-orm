@@ -397,11 +397,11 @@ if __name__ == '__main__':
     car_rental_system.add_customer("John", "Doe", "0734576890")
     car_rental_system.add_customer("Maru", "Junior", "0753728282")
     car_rental_system.add_customer("Dennis", "Kioko", "0764544543")
-    car_rental_system.add_customer("Doris", "Minaninos", "0732411135")
+    car_rental_system.add_customer("Doris", "Kerubo", "0732411135")
     car_rental_system.add_customer("Allen", "Shamrock", "0798756324")
     car_rental_system.add_customer("Mulei", "Archy", "0700453678")
-    car_rental_system.add_customer("Mulei", "Archy", "0700453670")
-    car_rental_system.add_customer("Mariam", "Senzia", "0700543678")
+    car_rental_system.add_customer("Mutua", "James", "0700453670")
+    car_rental_system.add_customer("Jane", "Ruto", "0700543678")
     
     
         # find_customer_by_id
