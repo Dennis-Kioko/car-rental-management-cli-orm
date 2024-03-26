@@ -32,7 +32,7 @@ def main():
         choice = input("> ")
         if choice == "0":
             exit_program(car_rental_system)
-        
+            
         elif choice == "1":
             make = input("Enter the car's make: ")
             model = input("Enter the car's model: ")
@@ -104,18 +104,21 @@ def main():
 def menu():
     print("Please select an option:")
     print("0. Exit the program")
+    print("**************************CARS*************************")
     print("1. Add a new car")
     print("2. Get all cars")
     print("3. Find car by id")
     print("4. Find car by make and model")
     print("5. Update a car")
     print("6. Delete a car")
+    print("**************************CUSTOMERS*************************")
     print("7. Add a customer")
     print("8. Get all customers")
     print("9. Find customer by id")
     print("10.Find customer by name")
     print("11.Update a customer")
     print("12.Delete a customer")
+    print("**************************RENTALS*************************")
     print("13.Register customer to a car")
     
     
